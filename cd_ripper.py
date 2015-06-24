@@ -5,7 +5,7 @@ Takes all tracks on the cd and combines together into a wav file named Copy_####
 This can then be used with the audio script to automate the cataloging of the wav file. 
 
 
-requires mediainfo, VLC
+requires VLC
 2/17/2015
 SJS
 
@@ -28,7 +28,7 @@ location = "K:\WorkAudio\cda_transfers\extracted_cda"
 while True:
 
 	catalog_num = input("Enter the the CD number: ")
-	if("SMA".lower() in catalog_num.lower()):
+	if("SMA".lower() in catalog_num.lower()) or ("Copy".lower() in catalog_num.lower()):
 		catalog_num = input("Please enter the number only without any prefix or characters: ")
 	correct_catalog = input("You entered: " + catalog_num + ". Is this correct?(y or n): ") 
 	if correct_catalog =="y":

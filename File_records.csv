@@ -1,0 +1,9 @@
+﻿Box,Folder ,Title,Date type,Date label,Begin Date,End Date,Date Expression,General Note Label,General Note Content
+3,4,Example Title 1,inclusive,creation,1901,1902,1901-1902,My Label,My example note
+3,5,Example Title 2,inclusive,creation,1901,1902,1901-1903,My Label,My example note
+3,6,Example Title 3,inclusive,creation,1901,1902,1901-1904,My Label,My example note
+3,7,Example Title 4,inclusive,creation,1901,1902,1901-1905,My Label,My example note
+3,8,Example Title 5,inclusive,creation,1901,1902,1901-1906,My Label,My example note
+4,1,Example Title 6,inclusive,creation,1901,1902,1901-1907,My Label,My example note
+4,2,Example Title 7,inclusive,creation,1901,1902,1901-1908,My Label,My example note
+4,3,Example Title 8,inclusive,creation,1901,1902,1901-1909,My Label,My example note
